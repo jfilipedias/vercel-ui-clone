@@ -52,7 +52,8 @@ const Left = styled.div`
   display: flex;
   align-items: center;
 
-  padding: 0.8rem;
+  cursor: pointer;
+
   width: 28rem;
 `;
 
