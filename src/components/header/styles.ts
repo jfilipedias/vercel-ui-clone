@@ -14,7 +14,7 @@ const Button = styled.button`
 
   cursor: pointer;
 
-  transition: 0.15s ease-in;
+  transition: 0.15s ease;
 
   &:hover {
     background: transparent;
@@ -29,7 +29,7 @@ const Item = styled.li`
   cursor: pointer;
   color: inherit;
 
-  transition: 0.1s ease-in;
+  transition: 0.1s ease;
 
   &:not(:first-of-type) {
     margin-left: 1.2rem;

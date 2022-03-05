@@ -26,7 +26,7 @@ const Button = styled.button`
 
   font: 500 1.6rem "Inter", sans-serif;
   cursor: pointer;
-  transition: 0.2s ease-in;
+  transition: 0.2s ease;
 
   &:hover {
     background: transparent;
